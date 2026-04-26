@@ -127,3 +127,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 95
     - SpDef: 95
 
+- Grimer
+    - HP: 80
+    - Atk: 80
+    - Def: 50
+    - Spd: 25
+    - SpAtk: 40
+    - SpDef: 75
+
