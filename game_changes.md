@@ -231,3 +231,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 55
     - SpDef: 110
 
+- Ariados:
+    - HP: 70
+    - Atk: 90
+    - Def: 70
+    - Spd: 80
+    - SpAtk: 70
+    - SpDef: 70
+
