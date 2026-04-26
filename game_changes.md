@@ -247,3 +247,27 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 80
     - SpDef: 105
 
+- Bellossom:
+    - HP: 90
+    - Atk: 80
+    - Def: 95
+    - Spd: 50
+    - SpAtk: 90
+    - SpDef: 110
+
+- Marill:
+    - HP: 70
+    - Atk: 20
+    - Def: 50
+    - Spd: 40
+    - SpAtk: 40
+    - SpDef: 50
+
+- Azumarill:
+    - HP: 100
+    - Atk: 500
+    - Def: 80
+    - Spd: 50
+    - SpAtk: 70
+    - SpDef: 80
+
