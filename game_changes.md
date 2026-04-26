@@ -385,4 +385,20 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 90
     - SpDef: 90
 
+- SPECIES_SWINUB:
+    - HP: 80
+    - Atk: 65
+    - Def: 40
+    - Spd: 50
+    - SpAtk: 65
+    - SpDef: 40
+
+- SPECIES_PILOSWINE:
+    - HP: 100
+    - Atk: 100
+    - Def: 80
+    - Spd: 50
+    - SpAtk: 80
+    - SpDef: 70
+
 
