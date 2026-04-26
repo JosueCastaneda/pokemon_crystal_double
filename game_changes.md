@@ -449,3 +449,13 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 115
     - SpDef: 75
   
+## Evolution changes
+
+- Trade pokemon evolve with ITEM_LINKING_CORD
+ - Haunter, Kadabra, Graveler, Machoke,
+
+- Level changes
+    - Goldeen now at level 28
+    - Spinarak now at level 21
+    - Pineco now at level 25
+    - Slugma now at level 27
