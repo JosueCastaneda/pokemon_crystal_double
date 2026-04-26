@@ -459,3 +459,8 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spinarak now at level 21
     - Pineco now at level 25
     - Slugma now at level 27
+
+## Config changes
+
+- You can see the Pokemon from pattern in Pokédex
+    - #define B_PARTNER_MONS_MARKED_SEEN      TRUE
