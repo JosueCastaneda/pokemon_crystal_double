@@ -86,3 +86,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 50
     - SpAtk: 100
     - SpDef: 100
+
+- Venomoth:
+    - HP: 70
+    - Atk: 75
+    - Def: 60
+    - Spd: 100
+    - SpAtk: 90
+    - SpDef: 95
