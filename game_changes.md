@@ -191,3 +191,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 65
     - SpDef: 80
 
+- Magmar:
+    - HP: 75
+    - Atk: 95
+    - Def: 57
+    - Spd: 93
+    - SpAtk: 100
+    - SpDef: 85
+
