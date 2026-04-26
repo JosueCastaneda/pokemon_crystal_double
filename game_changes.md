@@ -62,3 +62,27 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 45
     - SpAtk: 85
     - SpDef: 55
+
+- Oddish: 
+    - HP: 50
+    - Atk: 50
+    - Def: 55
+    - Spd: 30
+    - SpAtk: 75
+    - SpDef: 75
+
+- Gloom: 
+    - HP: 70
+    - Atk: 65
+    - Def: 70
+    - Spd: 40
+    - SpAtk: 85
+    - SpDef: 85
+
+- Vileplume: 
+    - HP: 90
+    - Atk: 80
+    - Def: 85
+    - Spd: 50
+    - SpAtk: 100
+    - SpDef: 100

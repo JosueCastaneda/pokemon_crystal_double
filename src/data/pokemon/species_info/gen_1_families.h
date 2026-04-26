@@ -6047,7 +6047,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_FAMILY_ODDISH
     [SPECIES_ODDISH] =
     {
-        .baseHP        = 45,
+        .baseHP        = 50,
         .baseAttack    = 50,
         .baseDefense   = 55,
         .baseSpeed     = 30,
@@ -6121,7 +6121,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 
     [SPECIES_GLOOM] =
     {
-        .baseHP        = 60,
+        .baseHP        = 70,
         .baseAttack    = 65,
         .baseDefense   = 70,
         .baseSpeed     = 40,
