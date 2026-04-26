@@ -279,3 +279,19 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 30
     - SpDef: 85
 
+- Aipom:
+    - HP: 70
+    - Atk: 90
+    - Def: 65
+    - Spd: 90
+    - SpAtk: 40
+    - SpDef: 65
+
+- Sunflora:
+    - HP: 75
+    - Atk: 75
+    - Def: 55
+    - Spd: 30
+    - SpAtk: 125
+    - SpDef: 85
+
