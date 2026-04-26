@@ -18758,8 +18758,8 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_FAMILY_PORYGON
     [SPECIES_PORYGON] =
     {
-        .baseHP        = 65,
-        .baseAttack    = 60,
+        .baseHP        = 75,
+        .baseAttack    = 70,
         .baseDefense   = 70,
         .baseSpeed     = 40,
         .baseSpAttack  = P_UPDATED_STATS >= GEN_2 ? 85 : 75,

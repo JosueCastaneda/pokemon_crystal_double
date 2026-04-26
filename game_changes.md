@@ -207,3 +207,18 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 110
     - SpDef: 110
 
+- Porygon:
+    - HP: 70
+    - Atk: 70
+    - Def: 40
+    - Spd: 65
+    - SpAtk: 85
+    - SpDef: 75
+
+- Furret:
+    - HP: 70
+    - Atk: 70
+    - Def: 40
+    - Spd: 65
+    - SpAtk: 85
+    - SpDef: 75
