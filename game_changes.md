@@ -183,3 +183,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 85
     - SpDef: 70
 
+- Seaking:
+    - HP: 80
+    - Atk: 100
+    - Def: 65
+    - Spd: 68
+    - SpAtk: 65
+    - SpDef: 80
+
