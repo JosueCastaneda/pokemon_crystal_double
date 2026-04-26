@@ -14303,7 +14303,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 
     [SPECIES_WEEZING] =
     {
-        .baseHP        = 65,
+        .baseHP        = 75,
         .baseAttack    = 90,
         .baseDefense   = 120,
         .baseSpeed     = 60,
@@ -14381,7 +14381,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #if P_GALARIAN_FORMS
     [SPECIES_WEEZING_GALAR] =
     {
-        .baseHP        = 65,
+        .baseHP        = 75,
         .baseAttack    = 90,
         .baseDefense   = 120,
         .baseSpeed     = 60,
