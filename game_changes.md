@@ -368,3 +368,21 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 70
     - SpDef: 75
 
+
+- SPECIES_SLUGMA:
+    - HP: 50
+    - Atk: 70
+    - Def: 60
+    - Spd: 20
+    - SpAtk: 70
+    - SpDef: 60
+
+- SPECIES_MAGCARGO:
+    - HP: 60
+    - Atk: 80
+    - Def: 130
+    - Spd: 30
+    - SpAtk: 90
+    - SpDef: 90
+
+
