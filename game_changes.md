@@ -295,3 +295,18 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 125
     - SpDef: 85
 
+- Yanma:
+    - HP: 75
+    - Atk: 105
+    - Def: 65
+    - Spd: 95
+    - SpAtk: 75
+    - SpDef: 45
+
+- Quagsire:
+    - HP: 95
+    - Atk: 85
+    - Def: 85
+    - Spd: 35
+    - SpAtk: 75
+    - SpDef: 75
