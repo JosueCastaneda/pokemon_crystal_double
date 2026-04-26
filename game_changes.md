@@ -140,6 +140,29 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Atk: 65
     - Def: 100
     - Spd: 40
-    - SpAtk: 405
+    - SpAtk: 45
     - SpDef: 25
 
+- Marowak and Regional
+    - HP: 65
+    - Atk: 80
+    - Def: 110
+    - Spd: 45
+    - SpAtk: 50
+    - SpDef: 80
+
+- Hitmonlee
+    - HP: 50
+    - Atk: 120
+    - Def: 58
+    - Spd: 87
+    - SpAtk: 35
+    - SpDef: 110
+
+- Hitmonchan:
+    - HP: 50
+    - Atk: 105
+    - Def: 79
+    - Spd: 81
+    - SpAtk: 35
+    - SpDef: 110
