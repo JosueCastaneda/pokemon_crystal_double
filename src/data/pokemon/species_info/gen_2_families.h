@@ -1683,8 +1683,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
 
     [SPECIES_TOGETIC] =
     {
-        .baseHP        = 55,
-        .baseAttack    = 40,
+        .baseHP        = 85,
+        .baseAttack    = 50,
         .baseDefense   = 85,
         .baseSpeed     = 40,
         .baseSpAttack  = 80,

@@ -239,3 +239,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 70
     - SpDef: 70
 
+- Togetic:
+    - HP: 85
+    - Atk: 50
+    - Def: 85
+    - Spd: 40
+    - SpAtk: 80
+    - SpDef: 105
+
