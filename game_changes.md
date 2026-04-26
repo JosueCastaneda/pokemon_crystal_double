@@ -265,9 +265,17 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
 
 - Azumarill:
     - HP: 100
-    - Atk: 500
+    - Atk: 50
     - Def: 80
     - Spd: 50
     - SpAtk: 70
     - SpDef: 80
+
+- Sudowoodo:
+    - HP: 80
+    - Atk: 100
+    - Def: 115
+    - Spd: 30
+    - SpAtk: 30
+    - SpDef: 85
 
