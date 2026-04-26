@@ -199,3 +199,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 100
     - SpDef: 85
 
+- Flareon:
+    - HP: 65
+    - Atk: 130
+    - Def: 60
+    - Spd: 65
+    - SpAtk: 110
+    - SpDef: 110
+
