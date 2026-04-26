@@ -216,9 +216,18 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpDef: 75
 
 - Furret:
-    - HP: 70
-    - Atk: 70
-    - Def: 40
-    - Spd: 65
-    - SpAtk: 85
-    - SpDef: 75
+    - HP: 85
+    - Atk: 76
+    - Def: 64
+    - Spd: 90
+    - SpAtk: 55
+    - SpDef: 55
+
+- Ledian:
+    - HP: 75
+    - Atk: 35
+    - Def: 50
+    - Spd: 85
+    - SpAtk: 55
+    - SpDef: 110
+
