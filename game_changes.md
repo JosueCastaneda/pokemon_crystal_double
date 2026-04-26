@@ -54,3 +54,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 100
     - SpAtk: 100
     - SpDef: 100
+
+- Wigglytuff: 
+    - HP: 140
+    - Atk: 70
+    - Def: 55
+    - Spd: 45
+    - SpAtk: 85
+    - SpDef: 55
