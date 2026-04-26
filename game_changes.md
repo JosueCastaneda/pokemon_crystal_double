@@ -360,3 +360,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 65
     - SpDef: 75
 
+- SPECIES_SNEASEL and regional forms:
+    - HP: 55
+    - Atk: 95
+    - Def: 55
+    - Spd: 115
+    - SpAtk: 70
+    - SpDef: 75
+
