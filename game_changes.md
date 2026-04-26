@@ -94,3 +94,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 100
     - SpAtk: 90
     - SpDef: 95
+
+- Dugtrio:
+    - HP: 35
+    - Atk: 90
+    - Def: 50
+    - Spd: 120
+    - SpAtk: 70
+    - SpDef: 70
