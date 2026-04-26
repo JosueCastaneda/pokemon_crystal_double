@@ -102,3 +102,19 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 120
     - SpAtk: 70
     - SpDef: 70
+
+- Ponyta:
+    - HP: 50
+    - Atk: 85
+    - Def: 55
+    - Spd: 100
+    - SpAtk: 65
+    - SpDef: 65
+
+- Rapidash:
+    - HP: 65
+    - Atk: 100
+    - Def: 70
+    - Spd: 115
+    - SpAtk: 80
+    - SpDef: 80
