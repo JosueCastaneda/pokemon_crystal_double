@@ -3891,9 +3891,9 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .baseHP        = 60,
         .baseAttack    = 60,
         .baseDefense   = 60,
-        .baseSpeed     = 85,
-        .baseSpAttack  = 85,
-        .baseSpDefense = 85,
+        .baseSpeed     = 90,
+        .baseSpAttack  = 95,
+        .baseSpDefense = 95,
         .types = MON_TYPES(TYPE_GHOST),
         .catchRate = 45,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 87 : 147,
@@ -4813,10 +4813,10 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
 #if P_FAMILY_GLIGAR
     [SPECIES_GLIGAR] =
     {
-        .baseHP        = 65,
-        .baseAttack    = 75,
+        .baseHP        = 70,
+        .baseAttack    = 85,
         .baseDefense   = 105,
-        .baseSpeed     = 85,
+        .baseSpeed     = 90,
         .baseSpAttack  = 35,
         .baseSpDefense = 65,
         .types = MON_TYPES(TYPE_GROUND, TYPE_FLYING),

@@ -326,3 +326,20 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 95
     - SpAtk: 105
     - SpDef: 52
+
+- Misdreavus:
+    - HP: 60
+    - Atk: 60
+    - Def: 60
+    - Spd: 90
+    - SpAtk: 95
+    - SpDef: 95
+
+- Giglar:
+    - HP: 70
+    - Atk: 85
+    - Def: 105
+    - Spd: 90
+    - SpAtk: 35
+    - SpDef: 65
+
