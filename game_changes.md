@@ -135,3 +135,11 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 40
     - SpDef: 75
 
+- Shellder
+    - HP: 35
+    - Atk: 65
+    - Def: 100
+    - Spd: 40
+    - SpAtk: 405
+    - SpDef: 25
+
