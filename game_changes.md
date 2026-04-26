@@ -343,3 +343,20 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 35
     - SpDef: 65
 
+
+- SPECIES_QWILFISH:
+    - HP: 75
+    - Atk: 95
+    - Def: 85
+    - Spd: 85
+    - SpAtk: 65
+    - SpDef: 75
+
+- SPECIES_QWILFISH_HISUI:
+    - HP: 75
+    - Atk: 95
+    - Def: 85
+    - Spd: 85
+    - SpAtk: 65
+    - SpDef: 75
+
