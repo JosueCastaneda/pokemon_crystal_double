@@ -118,3 +118,12 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 115
     - SpAtk: 80
     - SpDef: 80
+
+- Dewgong:
+    - HP: 90
+    - Atk: 70
+    - Def: 80
+    - Spd: 70
+    - SpAtk: 95
+    - SpDef: 95
+
