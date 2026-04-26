@@ -310,3 +310,19 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 35
     - SpAtk: 75
     - SpDef: 75
+
+- Murkrow:
+    - HP: 70
+    - Atk: 105
+    - Def: 52
+    - Spd: 95
+    - SpAtk: 85
+    - SpDef: 52
+
+- Honchkrow:
+    - HP: 100
+    - Atk: 125
+    - Def: 52
+    - Spd: 95
+    - SpAtk: 105
+    - SpDef: 52
