@@ -401,4 +401,51 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - SpAtk: 80
     - SpDef: 70
 
+- SPECIES_CORSOLA:
+    - HP: 85
+    - Atk: 55
+    - Def: 95
+    - Spd: 35
+    - SpAtk: 65
+    - SpDef: 95
 
+- SPECIES_CORSOLA_GALAR:
+    - HP: 85
+    - Atk: 55
+    - Def: 100
+    - Spd: 30
+    - SpAtk: 65
+    - SpDef: 100
+
+- SPECIES_DELIBIRD:
+    - HP: 60
+    - Atk: 75
+    - Def: 55
+    - Spd: 80
+    - SpAtk: 85
+    - SpDef: 45
+
+- SPECIES_MANTINE:
+    - HP: 85
+    - Atk: 50
+    - Def: 70
+    - Spd: 70
+    - SpAtk: 80
+    - SpDef: 140
+
+- SPECIES_HITMONTOP:
+    - HP: 50
+    - Atk: 95
+    - Def: 95
+    - Spd: 75
+    - SpAtk: 35
+    - SpDef: 110
+  
+- SPECIES_ENTEI:
+    - HP: 115
+    - Atk: 115
+    - Def: 85
+    - Spd: 100
+    - SpAtk: 115
+    - SpDef: 75
+  
