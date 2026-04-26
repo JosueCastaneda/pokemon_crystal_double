@@ -22,3 +22,35 @@ We follow the stats changes from [Emerald Legacy](https://github.com/cRz-Shadows
     - Spd: 90(+10)
     - SpAtk: 65
     - SpDef: 79
+
+- Pikachu: (GEN_6>=)
+    - HP: 35
+    - Atk: 55
+    - Def: 40(+10)
+    - Spd: 90
+    - SpAtk: 50
+    - SpDef: 50(+10)
+
+- Clefable: (GEN_6>=)
+    - HP: 95
+    - Atk: 70
+    - Def: 73
+    - Spd: 60
+    - SpAtk: 95(+10)
+    - SpDef: 90
+
+- Vulpix:
+    - HP: 45(+7)
+    - Atk: 41
+    - Def: 40
+    - Spd: 75
+    - SpAtk: 65
+    - SpDef: 70
+
+- Ninetales: 
+    - HP: 78
+    - Atk: 76
+    - Def: 80
+    - Spd: 100
+    - SpAtk: 100
+    - SpDef: 100
